@@ -22,12 +22,12 @@
 
 <p align="center">
     <a href="https://instagram.com/durovism">
-        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/main/resources/insta_icon.png" width="30px">
+        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="30px">
     </a>
     <a href="https://github.com/Lettable">
-        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/main/resources/github_icon.png" width="30px">
+        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/github_icon.png" width="30px">
     </a>
-    <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/main/resources/songs.gif" width="50px">
+    <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/songs.gif" width="50px">
 </p>
 
 [<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
