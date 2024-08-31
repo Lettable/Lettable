@@ -1,4 +1,4 @@
-[<img src="https://github.com/Lettable/Lettable/blob/master/resources/hr.gif"/>](https://github.com/Lettable)
+[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
 
 <h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍɪʀᴢʏᴀ </h1>
 <p align="center">
@@ -27,7 +27,17 @@
     <a href="https://github.com/Lettable">
         <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/github_icon.png" width="30px">
     </a>
+    <a href="https://t.me/mirzyave">
+        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/telegram_icon.png" width="30px">
+    </a>
+</p>
+
+[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
+
+<p align="center">
     <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/songs.gif" width="50px">
+    <br>
+    <i>just chillin' to some tunes...</i>
 </p>
 
 [<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
