@@ -33,7 +33,7 @@ I'm Mirza from Pakistan, an IT expert and security enthusiast with a knack for f
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40durovism-ff69b4.svg?style=for-the-badge&logo=instagram)](https://instagram.com/durovism)
 [![GitHub](https://img.shields.io/badge/GitHub-%40Lettable-333333.svg?style=for-the-badge&logo=github)](https://github.com/Lettable)
-[![Telegram](https://img.shields.io/badge/Telegram-%40mirzyave-0088cc.svg?style=for-the-badge&logo=telegram)](https://t.me/mirzyave)
+[![Telegram](https://img.shields.io/badge/Telegram-%40mirzyae-0088cc.svg?style=for-the-badge&logo=telegram)](https://t.me/mirzyae)
 
 ---
 
