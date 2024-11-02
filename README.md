@@ -1,55 +1,40 @@
-[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
+# Mirza | Security & IT Expert | Senior Developer
 
-<h1 align="center">
-    <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> 
-    Hello, I'm Mirza
-</h1>
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-16%2B-brightgreen.svg)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4.0%2B-lightgrey.svg)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-17%2B-blue.svg)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-12%2B-black.svg)](https://nextjs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-5.0-green.svg)](https://www.mongodb.com/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2C%20MySQL-blue.svg)](https://www.postgresql.org/)
 
-<p align="center">
-    <i>Security and IT Expert | Senior Developer | Part-Time Ethical Hacker</i>
-</p>
-
-[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
+---
 
 ### 👋 About Me
 
-I'm Mirza from Pakistan, fluent in both English and Urdu. Currently in my first year of IT studies, I specialize in security and IT. With expertise across JavaScript, Python, and a range of frameworks and libraries, I enjoy creating robust and efficient applications. In addition to development, I am also a part-time ethical hacker, consistently expanding my skills and knowledge.
+I'm Mirza from Pakistan, an IT expert and security enthusiast with a knack for full-stack development and ethical hacking. Fluent in both English and Urdu, I’m constantly pushing the boundaries in web development, security protocols, and database management.
+
+- 💼 Currently studying IT while building real-world applications.
+- 🔍 Passionate about cybersecurity and ethical hacking.
+- 🎓 Skilled in JavaScript, Python, SQL, NoSQL, and front-end frameworks.
+
+---
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript (Node.js, Express.js, EJS), Python, SQL, NoSQL, HTML, CSS
-- **Frameworks & Libraries**: React (JS/Native), Next.js, TailwindCSS
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Other Tools**: Git, GitHub, Docker, VS Code, Linux
+**Languages**: JavaScript (Node.js, Express.js, EJS), Python, SQL, NoSQL, HTML, CSS  
+**Frameworks & Libraries**: React, Next.js, TailwindCSS  
+**Databases**: MongoDB, MySQL, PostgreSQL  
+**Other Tools**: Git, GitHub, Docker, VS Code, Linux  
 
-### 🌱 Current Focus
-I'm working on building my expertise in full-stack development, with a special focus on security protocols and scalable web architecture.
+---
 
-[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
+### 🌐 Connect With Me
 
-<h2 align="center">📊 GitHub Analytics</h2>
+[![Instagram](https://img.shields.io/badge/Instagram-%40durovism-ff69b4.svg?style=for-the-badge&logo=instagram)](https://instagram.com/durovism)
+[![GitHub](https://img.shields.io/badge/GitHub-%40Lettable-333333.svg?style=for-the-badge&logo=github)](https://github.com/Lettable)
+[![Telegram](https://img.shields.io/badge/Telegram-%40mirzyave-0088cc.svg?style=for-the-badge&logo=telegram)](https://t.me/mirzyave)
 
-<p align="center">
-    <a href="https://github.com/Lettable">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lettable&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=My+Stats&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">
-    </a>
-    <a href="https://github.com/Lettable">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lettable&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">
-    </a>
-</p>
+---
 
-[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
-
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
-    <a href="https://instagram.com/durovism" target="_blank">
-        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="30px">
-    </a>
-    <a href="https://github.com/Lettable" target="_blank">
-        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/github_icon.png" width="30px">
-    </a>
-    <a href="https://t.me/mirzyave" target="_blank">
-        <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/telegram_icon.png" width="30px">
-    </a>
-</p>
-
-[<img src="https://github.com/Lettable/Lettable/blob/main/resources/hr.gif"/>](https://github.com/Lettable)
+> *"In the world of technology and security, I'm here to explore, build, and secure the future."*
