@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-brightgreen.svg)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.0%2B-lightgrey.svg)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-17%2B-blue.svg)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-12%2B-black.svg)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15%2B-black.svg)](https://nextjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-5.0-green.svg)](https://www.mongodb.com/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2C%20MySQL-blue.svg)](https://www.postgresql.org/)
