@@ -15,6 +15,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-6%2B-pink.svg)](https://www.framer.com/motion/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-4.0%2B-blue.svg)](https://cassandra.apache.org/)
 [![ScyllaDB](https://img.shields.io/badge/ScyllaDB-5.2-blue.svg)](https://www.scylladb.com/)
+[![C#](https://img.shields.io/badge/C%23-.NET%207%2B-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ---
 
