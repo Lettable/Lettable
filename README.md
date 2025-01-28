@@ -21,7 +21,7 @@
 
 ### 👋 About Me
 
-I'm Mirza from Pakistan, an IT expert and security enthusiast with a knack for full-stack development and ethical hacking. Fluent in both English and Urdu, I’m constantly pushing the boundaries in web development, security protocols, and database management.
+I'm Mirza, an IT expert and security enthusiast with a knack for full-stack development and ethical hacking. Fluent in both English and Urdu, I’m constantly pushing the boundaries in web development, security protocols, and database management.
 
 - 💼 Currently studying IT while building real-world applications.
 - 🔍 Passionate about cybersecurity and ethical hacking.
