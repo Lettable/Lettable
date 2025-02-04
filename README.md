@@ -39,7 +39,7 @@ I'm Mirza, an IT expert and security enthusiast with a knack for full-stack deve
 
 ### 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40widefuck-ff69b4.svg?style=for-the-badge&logo=instagram)](https://instagram.com/widefuck)
+[![Instagram](https://img.shields.io/badge/Instagram-%40mirzya_v-ff69b4.svg?style=for-the-badge&logo=instagram)](https://instagram.com/mirzya_v)
 [![GitHub](https://img.shields.io/badge/GitHub-%40Lettable-333333.svg?style=for-the-badge&logo=github)](https://github.com/Lettable)
 [![Telegram](https://img.shields.io/badge/Telegram-%40mirzyave-0088cc.svg?style=for-the-badge&logo=telegram)](https://t.me/mirzyave)
 
