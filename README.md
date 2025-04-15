@@ -30,8 +30,8 @@ I'm Mirza, an IT expert and security enthusiast with a knack for full-stack deve
 ---
 
 ### 🛠️ Tech Stack
-**Languages**: JavaScript (Node.js, Express.js, EJS), Python, SQL, NoSQL, HTML, CSS, Solidity basics, Erlang, Gleem
-**Frameworks & Libraries**: React, Next.js, TailwindCSS, Framer Motion, ShadCN UI
+**Languages**: JavaScript (Node.js, Express.js, EJS), Python, SQL, NoSQL, HTML, CSS, Solidity basics, Erlang, Gleem, PHP
+**Frameworks & Libraries**: React, Next.js, TailwindCSS, Framer Motion, ShadCN UI, Prisma.js
 **Databases**: MongoDB, MySQL, PostgreSQL, CassandraDB, ScyllaDB
 **Other Tools**: Git, GitHub, Docker, VS Code, Linux, CI/CD, DevOPS
 
